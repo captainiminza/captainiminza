@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Captain
-- 👀 I’m interested in .NET API integration
-- 🌱 I’m currently learning NuxtJs
+- 👀 Interested in .NET API integration
+- 🌱 Currently learning NuxtJs
 
 
 <!---
